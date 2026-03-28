@@ -187,10 +187,10 @@ namespace LibraryManagementSystem
 
             while (!exit)
             {
-                Console.WriteLine("\n===== HỆ THỐNG QUẢN LÝ THƯ VIỆN OOP =====");
+                Console.WriteLine("\n===== HỆ THỐNG QUẢN LÝ THƯ VIỆN  =====");
                 Console.WriteLine("1. Thêm sách mới");
                 Console.WriteLine("2. Hiển thị danh sách sách");
-                Console.WriteLine("3. Tìm kiếm sách (ISBN/Tên)");
+                Console.WriteLine("3. Tìm kiếm sách ");
                 Console.WriteLine("4. Mượn sách");
                 Console.WriteLine("5. Trả sách");
                 Console.WriteLine("6. Thống kê");
